@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a fourth-year student at University of Asia Pacific | UAP currently doing my Bachelor's in Electrical Engineering. I am an ethical hacker and cyber security expert.
+ I am a fourth-year student at University of Asia Pacific | UAP currently doing my Bachelor's in Electrical Engineering & ethical hacker/cyber security expert as well.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MDJAKYTAJWAR&icon=4&color=8)](https://visitcount.itsvg.in)
